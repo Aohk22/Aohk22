@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Anime.
+#### Anime.
 
 check out my nvim setup !
 <!--
