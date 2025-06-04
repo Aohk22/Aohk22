@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### Anime.
+#### **Anime**.
 
 [Neovim](https://github.com/Aohk22/init.lua) preset.
 <!--
